@@ -20,6 +20,7 @@ body {
    NAVBAR
 ========================= */
 .navbar {
+  background-image: url("Moonlight.jpg");
   background-color: #1b1d3a;
   padding: 1em 2em;
   display: flex;
